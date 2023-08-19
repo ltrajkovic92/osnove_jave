@@ -12,10 +12,13 @@ public class Zadatak3 {
 
         if (a % 2 == 0) {
             System.out.println("Broj a je deljiv sa dva");
-
-        } else if (a % 3 == 0) {
+        }
+        if (a % 3 == 0) {
             System.out.println("Broj a je deljiv sa tri");
         }
 
+        //Napisati program koji ispisuje za uneti broj a da li je deljiv sa 2 ili sa 3.
+        // Ispisati poruke na kraju programa u obe situacije.
+        //Upoznajte se sa opertorom moduo % dok ne dodjemo do tog operatora.
     }
 }

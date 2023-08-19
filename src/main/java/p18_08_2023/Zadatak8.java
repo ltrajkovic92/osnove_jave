@@ -8,5 +8,7 @@ public class Zadatak8 {
                 System.out.print(i + ", ");
             }
         }
+
+        //Napisati program koji ispisuje SAMO PARNE brojeve od 1 do 100
     }
 }

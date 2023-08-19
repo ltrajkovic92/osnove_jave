@@ -17,5 +17,10 @@ public class Zadatak2 {
         } else if (a>=100 || a<=999) {
             System.out.println("Broj je trocifren.");
         }
+
+        //Napisati program koji ucitava broj a i ispisuje poruke:
+        //Ukoliko je broj a do 10 stampamo da je jednocifren broj
+        //Ukoliko je broj a do 100 stampamo da je dvocifren broj
+        //Ukoliko je broj a veci od 100 stampamo da je trocifren.
     }
 }

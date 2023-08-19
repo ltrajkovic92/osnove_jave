@@ -24,5 +24,13 @@ public class Zadatak1 {
 
         System.out.println("Nova vrednost za N je: " + n);
 
+        //Napisati program koji sa tastature ucitava broj N i operaciju koja se izvrsava nad njim. Na kraju programa se ispisuje nova vrednost promenljive N.
+        //Ukoliko se za operaciju unese uvecaj, to uvecava promenljivu N za 1.
+        //Ukoliko se za operaciju unese smanji, to smanjuje promenljivu N za 1.
+        //
+        //	Primer izvrsenja:
+        //	Unesite N: 10
+        //	Unesite akciju: uvecaj
+        //	Nova vrednost za N je 11
     }
 }

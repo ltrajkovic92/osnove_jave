@@ -6,5 +6,9 @@ public class Zadatak5 {
         for (int i = -10; i <= 10; i++) {
             System.out.print(i + ", ");
         }
+
+        //Napisati program koji ispisuje brojeve od -10 do 10.
+        //Primer izvrsenja:
+        //-10, -9, -8, ……0, 1, 2, ………10
     }
 }
